@@ -1,0 +1,1 @@
+# aspcore-microservice-pattern
